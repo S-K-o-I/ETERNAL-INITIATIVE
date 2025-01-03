@@ -1,3 +1,6 @@
+## Contributing
+We welcome contributions through **forking** the repository, but **pull requests** will not be accepted. Please fork the repository, make your modifications, and submit your contributions via email or other collaboration methods.
+
 # ETERNAL-INITIATIVE
 The Eternal Doctrine of Nonprofit Intent, Expansion, and Protection: A commitment to open-source collaboration, ethical scholarship, and global accessibility.
 
