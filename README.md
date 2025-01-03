@@ -3,7 +3,7 @@ The Eternal Doctrine of Nonprofit Intent, Expansion, and Protection: A commitmen
 
 ---
 
-## The Eternal Doctrine of Nonprofit Intent, Expansion, and Protection  
+## The Eternal Doctrine of Nonprofit Intent, Expansion, and Protection
 
 ### Preamble  
 This repository contains the foundational principles of the Eternal Doctrine of Nonprofit Intent, Expansion, and Protection. It is a declaration of principles for intellectual contributions, collaborations, and endeavors, designed to align with nonprofit, open-source, and universally accessible goals while safeguarding its framework from unauthorized use, misrepresentation, or commercialization.
@@ -39,13 +39,17 @@ This repository contains the foundational principles of the Eternal Doctrine of 
 ---
 
 ### License  
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/S-K-o-I/ETERNAL-INITIATIVE">The Eternal Doctrine</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/S-K-o-I">SomeKindofInitiative</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-
-**Important Note**: This repository is not licensed for commercial use. Any use or derivative works must maintain attribution and adhere to the principles of nonprofit engagement.
+[![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
 
-### Contribution Guidelines  
-Contributions are welcome as long as they align with the doctrine's principles and licensing terms. Please submit a pull request or open an issue for discussion.  
+### Future Directions  
+The Eternal Initiative will continue to expand, evolve, and adapt to align with its foundational principles. Upcoming projects and collaborations may include:
+- Case studies and examples demonstrating nonprofit principles in action.
+- Open-source tools and resources for global accessibility.
+- Strategic partnerships to foster ethical scholarship and collaboration.
 
-For any inquiries or suggestions, please contact [somekindofinitiative@gmail.com].
+---
+
+For inquiries or suggestions, contact [somekindofinitiative@gmail.com].
